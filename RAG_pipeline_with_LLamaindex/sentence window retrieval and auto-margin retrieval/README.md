@@ -7,3 +7,6 @@ It's a handy tool for anyone looking to improve how they find and use informatio
 
 Here it has been implemted by llamaindex framework:
 https://docs.llamaindex.ai/en/latest/examples/retrievers/auto_merging_retriever.html
+
+The codes are based the following tutorials:
+https://www.deeplearning.ai/short-courses/
