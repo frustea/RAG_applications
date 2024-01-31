@@ -1,0 +1,6 @@
+What are the key advantage of analog quantum simulators?
+How confinement-deconfinement happen in Jackiw-rebbi model?
+What is diffrence bettwen 1+1-D and 2+1-D jackiw-Rebbi model?
+What is Neel order?
+what is the main result of the paper?
+whar are the weakness of the paper?
